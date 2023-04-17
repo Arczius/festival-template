@@ -6,7 +6,7 @@
     >Festival Schema</h1>
 
     <section 
-    class="flex flex-col items-center"
+    class="flex flex-col items-center pb-8"
     v-for="festival in festivals">
       <h2
       role="title"
