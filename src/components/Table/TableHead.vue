@@ -1,0 +1,9 @@
+<template>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Stage</th>
+      <th>Artist</th>
+    </tr>
+  </thead>
+</template>

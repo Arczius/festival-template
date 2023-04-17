@@ -1,0 +1,74 @@
+{
+    "festivals": [
+        {
+            "Name": "Supersized 2023",
+            "lineup": [
+                {
+                    "time": "12:00 - 13:00",
+                    "artist": "Republic",
+                    "stage": ""
+                },
+                {
+                    "time": "13:00 - 14:00",
+                    "artist": "Crypton",
+                    "stage": ""
+                },
+                {
+                    "time": "14:00 - 15:00",
+                    "artist": "The Purge",
+                    "stage": ""
+                },
+                {
+                    "time": "15:00 - 15:30",
+                    "artist": "Manifest Destiny",
+                    "stage": ""
+                },
+                {
+                    "time": "15:30 - 16:00", 
+                    "artist": "Cryex",
+                    "stage": ""
+                },
+                {
+                    "time": "16:00 - 17:00",
+                    "artist": "Warface",
+                    "stage": ""
+                },
+                {
+                    "time": "17:00 - 17:30",
+                    "artist": "Mad Dog",
+                    "stage": ""
+                },
+                {
+                    "time": "17:30 - 18:30",
+                    "artist": "Paul Elstak",
+                    "stage": ""
+                },
+                {
+                    "time": "18:30 - 19:00",
+                    "artist": "Dimitri K",
+                    "stage": ""
+                },
+                {
+                    "time": "19:00 - 20:00",
+                    "artist": "Act of Rage",
+                    "stage": ""
+                },
+                {
+                    "time": "20:00 - 21:00",
+                    "artist": "Unresolved & Bloodlust",
+                    "stage": ""
+                },
+                {
+                    "time": "21:00 - 22:00",
+                    "artist": "Rebelion",
+                    "stage": ""
+                },
+                {
+                    "time": "22:00 - 23:00",
+                    "artist": "Vertile",
+                    "stage": ""
+                }
+            ]
+        }
+    ]
+}
