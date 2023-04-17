@@ -2,20 +2,20 @@
 
   <main>
     <h1 
-    class="text-4xl font-bold"
+    class="text-5xl font-bold text-center pb-5"
     >Festival Schema</h1>
 
     <section 
+    class="flex flex-col items-center"
     v-for="festival in festivals">
       <h2
-      class=""
       role="title"
+      class="text-3xl font-bold"
       >{{ festival.Name }}</h2>
       <Table
       :festival="festival"
       />
     </section>
-
   </main>
 
 </template>

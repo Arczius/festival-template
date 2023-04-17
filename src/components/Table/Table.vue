@@ -1,8 +1,9 @@
 <template>
-  <table class="table-auto">
+  <table  
+  class="table-auto w-full lg:w-1/2 relative">
     <TableHead/>
 
-    <tbody>
+    <tbody class="">
       <TableRow
       v-for="lineup in festival.lineup"
       :lineup="lineup"

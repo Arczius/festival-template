@@ -1,9 +1,11 @@
 <template>
-  <thead>
+  <thead
+  class="bg-gray-400"
+  >
     <tr>
-      <th>Time</th>
-      <th>Stage</th>
-      <th>Artist</th>
+      <th class="text-left p-2 border-r-2 border-r-gray-500">Time</th>
+      <th class="text-left p-2 border-r-2 border-r-gray-500">Stage</th>
+      <th class="text-left p-2">Artist</th>
     </tr>
   </thead>
 </template>
