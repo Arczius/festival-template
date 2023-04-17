@@ -20,12 +20,7 @@
 
 </template>
 
-<script setup>
+<script lang="ts" setup>
 import { festivals } from './timetable.json'
 import Table from './components/Table/Table.vue'
-</script>
-
-<script>
-export default {
-}
 </script>
