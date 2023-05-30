@@ -10,7 +10,7 @@
     v-for="festival in festivals">
       <h2
       role="title"
-      class="text-3xl font-bold"
+      class="text-3xl font-bold pb-1"
       >{{ festival.Name }}</h2>
       <Table
       :festival="festival"
