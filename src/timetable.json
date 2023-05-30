@@ -1,72 +1,52 @@
 {
     "festivals": [
         {
-            "Name": "Supersized 2023",
+            "Name": "Defqon 1. 2023",
             "lineup": [
                 {
-                    "time": "12:00 - 13:00",
-                    "artist": "Republic",
-                    "stage": "Uptempo"
+                    "time": "11:00 - 12:00",
+                    "artist": "Open Airbed Concert by JDX",
+                    "stage": "Black"
                 },
                 {
-                    "time": "13:00 - 14:00",
-                    "artist": "Crypton",
-                    "stage": "Hardcore"
+                    "time": "12:00 - 14:00",
+                    "artist": "The Fantastic Four",
+                    "stage": "Black"
                 },
                 {
                     "time": "14:00 - 15:00",
-                    "artist": "The Purge",
-                    "stage": "Raw"
+                    "artist": "Lil Texas",
+                    "stage": "Yellow"
                 },
                 {
-                    "time": "15:00 - 15:30",
-                    "artist": "Manifest Destiny",
-                    "stage": "Uptempo"
-                },
-                {
-                    "time": "15:30 - 16:00", 
-                    "artist": "Cryex",
-                    "stage": "Raw"
+                    "time": "15:00 - 16:00",
+                    "artist": "Mad Dog",
+                    "stage": "Black"
                 },
                 {
                     "time": "16:00 - 17:00",
-                    "artist": "Warface",
-                    "stage": "Raw"
+                    "artist": "N-Vitral",
+                    "stage": "Black"
                 },
                 {
-                    "time": "17:00 - 17:30",
-                    "artist": "Mad Dog",
-                    "stage": "Hardcore"
+                    "time": "17:00 - 18:00",
+                    "artist": "Adjuzt",
+                    "stage": "Indigo"
                 },
                 {
-                    "time": "17:30 - 18:30",
-                    "artist": "Paul Elstak",
-                    "stage": "Hardcore"
-                },
-                {
-                    "time": "18:30 - 19:00",
-                    "artist": "Dimitri K",
-                    "stage": "Uptempo"
+                    "time": "18:00 - 19:00",
+                    "artist": "Rejecta",
+                    "stage": "Blue"
                 },
                 {
                     "time": "19:00 - 20:00",
-                    "artist": "Act of Rage",
-                    "stage": "Raw"
-                },
-                {
-                    "time": "20:00 - 21:00",
-                    "artist": "Unresolved & Bloodlust",
-                    "stage": "Raw"
-                },
-                {
-                    "time": "21:00 - 22:00",
-                    "artist": "Rebelion",
-                    "stage": "Raw"
-                },
-                {
-                    "time": "22:00 - 23:00",
                     "artist": "Vertile",
-                    "stage": "Hardstyle"
+                    "stage": "Blue"
+                },
+                {
+                    "time": "20:00 - 23:00",
+                    "artist": "Alles op Red",
+                    "stage": "Red"
                 }
             ]
         }
